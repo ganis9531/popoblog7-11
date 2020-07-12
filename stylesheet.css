@@ -25,11 +25,12 @@ header{
   float:right;
   margin-right:3px;
   padding:10px;
-  height:2000px;
+  margin-bottom:100px
+  
 }
 .end{
   text-align:right;
-  margin-top:1000px;
+  margin-top:10000px;
 }
 .sub{
   background-color: rgba(0,0,0, 0.5);
