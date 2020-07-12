@@ -2,6 +2,7 @@ body{
   background-image: url(ishigaki.jpg);
   background-size:cover;
   background-attachment: fixed;
+  height:1000;
 }
 header{
   background-image:url(maikura2.png);
@@ -30,7 +31,7 @@ header{
 }
 .end{
   text-align:right;
-  margin-top:10000px;
+  margin-top:1000px;
 }
 .sub{
   background-color: rgba(0,0,0, 0.5);
